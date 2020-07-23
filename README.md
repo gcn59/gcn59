@@ -6,7 +6,7 @@ Currently, I'm working on :
 [everybody can tweet](https://twitter.com/ectweet_)
 
 A portfolio is available on my website,  
-![My Website](https://img.shields.io/static/v1?label=&message=click+here+!&logo=superuser&color=000000&link=https://gabrielc.fr) ([or here if it don't work](https://gabrielc.fr))
+![My Website](https://img.shields.io/static/v1?label=&message=click+here+!&logo=superuser&color=000000&link=https://gabrielc.fr) ([or here if it don't works](https://gabrielc.fr))
 
 <!--
 **gcn59/gcn59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
