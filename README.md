@@ -1,4 +1,12 @@
+![Badge](https://img.shields.io/static/v1?label=&message=Visual+Studio+Code+user&logo=visual-studio-code&color=007ACC) ![Another Badge](https://img.shields.io/static/v1?label=&message=Node.JS+Developer&logo=node.js&color=000000)
 ### Hi there 👋
+I'm gcn, french developer.
+
+Currently, I'm working on :
+[everybody can tweet](https://twitter.com/ectweet_)
+
+A portfolio is available on my website,  
+![My Website](https://img.shields.io/static/v1?label=&message=click+here+!&logo=superuser&color=000000&link=https://gabrielc.fr)
 
 <!--
 **gcn59/gcn59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
