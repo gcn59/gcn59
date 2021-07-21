@@ -3,7 +3,7 @@
 I'm gcn, french developer.
 
 Currently, I'm working on :
-[everybody can tweet](https://twitter.com/ectweet_)
+[Some secret store](https://github.com/nextfor/nextstore-release)
 
 A portfolio is available on my website,  
 ![My Website](https://img.shields.io/static/v1?label=&message=click+here+!&logo=superuser&color=000000&link=https://gabrielc.fr) ([or here if it don't works](https://gabrielc.fr))
