@@ -1,6 +1,6 @@
 ![Badge](https://img.shields.io/static/v1?label=&message=Visual+Studio+Code+user&logo=visual-studio-code&color=007ACC) ![Another Badge](https://img.shields.io/static/v1?label=&message=Node.JS+Developer&logo=node.js&color=000000)
 ### Hi there 👋
-I'm gcn, french developer.
+I'm gcn, some french developer.
 
 Currently, I'm working on :
 [Some secret store](https://github.com/nextfor/nextstore-release)
