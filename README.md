@@ -2,11 +2,10 @@
 ### Hi there 👋
 I'm gcn, some french developer.
 
-Currently, I'm working on :
-[Some secret store](https://github.com/nextfor/nextstore-release)
+Currently, I'm working on [nextstore](https://github.com/nextfor/nextstore-release) and I'm excited to finally publish it soon !
 
 A portfolio is available on my website,  
-[![My Website](https://img.shields.io/static/v1?label=&message=click+here+!&logo=superuser&color=000000&link=https://gabrielc.fr)](https://gabrielc.fr)
+[![My Website](https://img.shields.io/static/v1?label=&message=gabrielc.fr&logo=superuser&color=000000&link=https://gabrielc.fr)](https://gabrielc.fr)
 
 <!--
 **gcn59/gcn59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
