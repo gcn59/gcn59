@@ -1,11 +1,11 @@
 ![Badge](https://img.shields.io/static/v1?label=&message=Visual+Studio+Code+user&logo=visual-studio-code&color=007ACC) ![Another Badge](https://img.shields.io/static/v1?label=&message=Node.JS+Developer&logo=node.js&color=000000)
 ### Hi there 👋
-I'm gcn, french developer.
 
-Currently, I'm working on [nextstore](https://github.com/nextfor/nextstore-release) and I'm excited to finally publish it soon !
+**help me I'm held hostage learning about maths**
 
-A portfolio is available on my website,  
-[![My Website](https://img.shields.io/static/v1?label=&message=gabrielc.fr&logo=superuser&color=000000&link=https://gabrielc.fr)](https://gabrielc.fr)
+# Currently at Saint-Louis highschool in Paris, France.
+
+![Saint-Louis highschool logo](https://pia.ac-paris.fr/serail/upload/docs/image/jpeg/2019-01/logo1b.jpg)
 
 <!--
 **gcn59/gcn59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
