@@ -5,7 +5,7 @@
 
 # Currently at Saint-Louis highschool in Paris, France.
 
-![Saint-Louis highschool logo](https://pia.ac-paris.fr/serail/upload/docs/image/jpeg/2019-01/logo1b.jpg)
+![Saint-Louis highschool logo](https://github.com/gcn59/gcn59/blob/master/logo1b.jpg?raw=true)
 
 <!--
 **gcn59/gcn59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
