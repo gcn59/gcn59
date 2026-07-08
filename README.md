@@ -1,11 +1,11 @@
 ![Badge](https://img.shields.io/static/v1?label=&message=Visual+Studio+Code+user&logo=visual-studio-code&color=007ACC) ![Another Badge](https://img.shields.io/static/v1?label=&message=Node.JS+Developer&logo=node.js&color=000000)
 ### Hi there 👋
 
-**help me I'm held hostage learning about maths**
+**was targeted by questionable STEM learning schemes**
 
-# Currently at Saint-Louis highschool in Paris, France.
+# Currently at Université de Lille, France
 
-![Saint-Louis highschool logo](https://github.com/gcn59/gcn59/blob/master/logo1b.jpg?raw=true)
+![Univ lille logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.qX6SroXffg-UUXvtEEWkNgHaB-%3Fr%3D0%26pid%3DApi&f=1&ipt=03ff19c876ad7b69634e1fb101e3407051cd9aab368a93580cb4b86fefa4afe8)
 
 <!--
 **gcn59/gcn59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
